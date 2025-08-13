@@ -12,3 +12,8 @@ Este é um aplicativo web desenvolvido com Streamlit para análise exploratória
 - Interface simples com botões para gerar gráficos interativos.
 
 O aplicativo lê um conjunto de dados em formato CSV (`vehicles.csv`) e gera visualizações dinâmicas para ajudar a entender o comportamento dos preços e características dos veículos.
+
+
+Link do Render:
+
+https://car-sales-streamlit2.onrender.com/

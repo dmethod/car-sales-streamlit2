@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # Lê o CSV
-df = pd.read_csv("vehicles_us.csv")
+df = pd.read_csv("vehicles.csv")
 
 # Cabeçalho
 st.header("📊 Análise Exploratória de Anúncios de Carros")
